@@ -4,5 +4,5 @@ As kids, we have all seen some amazing tricks done by talented individuals to ba
 
 With the new semester starting, all my side projects and/or ideas were slowly taking the back seat. Suddenly, I found myself with not too much time on my hands.
 
-However, I am quite confident that I will manage this balancing act and hopefully be on track to complete the projects I am currently working on, alongside my studies. 
+However, I am quite confident that I will manage this balancing act and hopefully be on track to complete the projects I am currently working on, alongside my studies. After all, everything in life is a learning experience and I hope to get better than ever at managing my workload & time.
 
