@@ -16,7 +16,7 @@ As shown below, think of the node as a box, with one end having a hook, and the 
 
 ![SLL Node.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1599969876067/Mq-22qvus.png)
 
-After taking a number of these, and then putting the hook of one box into the loop of another box, we end up with a singly linked list! The image below shoes four nodes linked to one another.
+After taking a number of these, and then putting the hook of one box into the loop of another box, we end up with a singly linked list! The image below shows four nodes linked to one another.
 
 ![SLL.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1599970348359/HnoirqMky.png)
 
