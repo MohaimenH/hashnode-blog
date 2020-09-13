@@ -6,3 +6,4 @@ With the new semester starting, all my side projects and/or ideas were slowly ta
 
 However, I am quite confident that I will manage this balancing act and hopefully be on track to complete the projects I am currently working on, alongside my studies. After all, everything in life is a learning experience and I hope to get better than ever at managing my workload & time.
 
+Thanks to Aziz Acharki for the cover image!
