@@ -22,7 +22,7 @@ After taking a number of these, and then putting the hook of one box into the lo
 
 We can say that the hooks are the 'links' to the next box. Since there is a hook only at the front, each box links only to the one after it. This means that the box has no idea about anything behind it. The 'hooks' that we have are actually called **pointers** because they, un-ironically, point to the next **node**! 
 
-If you noticed a small detail, the first box does not have any hook attached to it and the last box does not have anything to attach the hook to! Otherwise, there is **nothing** behind the first box and **nothing** in front of the last box. This is why we attach *a head*, while the last node points to **NULL**.
+If you noticed a small detail, the first box does not have any hook attached to it and the last box does not have anything to attach the hook to! Otherwise, there is **nothing** behind the first box and **nothing** in front of the last box. This is why we attach *a head* at the start, while the last node points to **NULL**.
 
 ![headerll.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1599971302107/eaclEA48P.png)
 
