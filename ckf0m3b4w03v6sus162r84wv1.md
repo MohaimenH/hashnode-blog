@@ -29,3 +29,7 @@ If you noticed a small detail, the first box does not have any hook attached to 
 We use one node and its pointer to get information about the next node. Thus, a head allows us to keep track of where the list starts from. The last node points to NULL because the last node has no other node to point to. Just like we are using a head, one might suggest the usage of a tail. That is a really good suggestion (and it will come to use later on!), but remember how the nodes only point towards a *forward* direction? Having a tail will not really be useful as we cannot go backwards in a singly linked list. However, you can still have a tail to know what you last element is.
 
 In summary, a singly linked list consists of nodes which point in one direction only.
+
+
+
+Note: The image used in the cover was taken from educative.io. No changes were made. The license and details can be found [here](https://www.educative.io/edpresso/what-is-a-linked-list).
